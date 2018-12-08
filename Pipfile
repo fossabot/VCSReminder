@@ -4,15 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-gitpython = "==2.1.7"
-pyside2 = "*"
-infi-systray = "*"
-svn = "*"
-"win10toast" = "*"
-pip = "*"
 
 [dev-packages]
-pylint = "*"
 
 [requires]
 python_version = "3.7"
