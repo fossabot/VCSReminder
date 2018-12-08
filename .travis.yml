@@ -3,8 +3,6 @@ python:
   - "3.6"
 # command to install dependencies
 install:
-
-  - pipenv run python -m pip install --upgrade pip setuptools wheel
   - pip install pipenv
   - pipenv install pyinstaller --dev
   
