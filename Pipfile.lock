@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e67adfd199c5a84576fba51bd4fa04ed8221aebd32114faf1ea4e01bdbc0809d"
+            "sha256": "54ce34271f93283c5f7a5297f2e21746d77a08221af40cff2a03b1821e293368"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -45,70 +45,6 @@
                 "sha256:f1bffef9cbc82628f6e7d7b40d7e255aefaa1adb6a1b1d26c69a8b79e6208a98"
             ],
             "version": "==1.3.7"
-        },
-        "nxpy-command": {
-            "hashes": [
-                "sha256:267a76e5d3f2dd2f0d0b40bb5c9c5e735f32d31230cf3e20ac681207553c3123",
-                "sha256:995bdf733f6c44373bad1ef79cdca51d53ce82b55b2f52ea9d30fd2a2e919d9f"
-            ],
-            "version": "==1.0.0"
-        },
-        "nxpy-core": {
-            "hashes": [
-                "sha256:9e101f1024fdc50785a35d463766c889f765aace19b150da9831061b3d1c6f00",
-                "sha256:e1952a9bb111cd0360601714d0c98c9182ec6d588b7080f47cca90704d410a89"
-            ],
-            "version": "==1.0.2"
-        },
-        "nxpy-file-object": {
-            "hashes": [
-                "sha256:7c7030e887c11c49eb928beb99e23f19f54ad2aa290d6a11c9d4d75d0cc71de3",
-                "sha256:a843127fecc8ecd4b51711c0757e06e4cc70eb0dc3976482fdd55e21c83629ce"
-            ],
-            "version": "==1.0.0"
-        },
-        "nxpy-nonblocking-subprocess": {
-            "hashes": [
-                "sha256:6654f993daff9cca5ab88a7c1f18c98265f3d5d075a45ef1315e69214cada6eb",
-                "sha256:aa95b3d72116f652911d54b2a98f20a429c1546af23deb5bafbfc0a55b2ddfd7"
-            ],
-            "version": "==1.0.0"
-        },
-        "nxpy-past": {
-            "hashes": [
-                "sha256:aced31fde696875220ca6e0883e3201391988ef889ec0eff5e0cfe76896d342a",
-                "sha256:b02655ec9eae23965f4d707edb1c45c232214b53810d30785efaf4454abd7ac5"
-            ],
-            "version": "==1.0.0"
-        },
-        "nxpy-path": {
-            "hashes": [
-                "sha256:0e21be49f2bd9b2b943c360d30f4cd9c2954e025b205eba4cf886504d98e1084",
-                "sha256:0f650c576c301cb69d10c717c085fbdffade3b62ab2aad4d7e7d183ecdfa7868"
-            ],
-            "version": "==1.0.0"
-        },
-        "nxpy-sequence": {
-            "hashes": [
-                "sha256:6f86d00a84e2330ad16be0bde59dc68692e86f5b0a80b1a9e1ed868275f1330a",
-                "sha256:c89ca9234ca9108a7c38bce20cabb44537a870c0d1037b60d21a12d67731520b"
-            ],
-            "version": "==1.0.0"
-        },
-        "nxpy-svn": {
-            "hashes": [
-                "sha256:9ea795531f549a00283490127bfe633f9e35ea63121b65d664b9bc85dbb21a5d",
-                "sha256:f3f86f8f372534563084693787bbbf7dd56f714167feb90767a2aab1adb36d56"
-            ],
-            "index": "pypi",
-            "version": "==1.0.0"
-        },
-        "nxpy-temp-file": {
-            "hashes": [
-                "sha256:4b1164e85e0f99980d41b89ae3780d847fce326b11e9ffd35b0475c7f5415a6a",
-                "sha256:6d16b6c48b254010e96272153742a1a0061a058b5349fecaae6b1638158755af"
-            ],
-            "version": "==1.0.0"
         },
         "pypiwin32": {
             "hashes": [

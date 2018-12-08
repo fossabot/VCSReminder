@@ -10,7 +10,6 @@ infi-systray = "*"
 svn = "*"
 "win10toast" = "*"
 pip = "*"
-nxpy-svn = "*"
 
 [dev-packages]
 pylint = "*"
