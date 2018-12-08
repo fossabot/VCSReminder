@@ -6,8 +6,7 @@ install:
 
   - pipenv run python -m pip install --upgrade pip setuptools wheel
   - pip install pipenv
-  - pipenv sync
-  - pipenv install
+  - pipenv install pyinstaller --dev
   
 # command to run tests
-script: pyinstaller --icon=src/vcsreminder_icons/bell_check.ico main.py
+script: pyinstaller --onefile --windowed main.py
