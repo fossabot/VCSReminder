@@ -1,10 +1,11 @@
-language: python
-python:
-  - "3.6"
+os: windows
+#language: python
+#python:
+#  - "3.6"
 # command to install dependencies
-install:
-  - pip install pipenv
-  - pipenv install pyinstaller --dev
+#install:
+#  - pip install pipenv
+#  - pipenv install pyinstaller --dev
   
 # command to run tests
-script: pyinstaller --onefile --windowed main.py
+#script: pyinstaller --onefile --windowed main.py
