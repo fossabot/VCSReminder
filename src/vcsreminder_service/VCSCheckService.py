@@ -7,7 +7,6 @@ from git import InvalidGitRepositoryError
 from git import NoSuchPathError
 
 import svn.local
-import pprint
 from datetime import datetime
 
 
