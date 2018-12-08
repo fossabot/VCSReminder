@@ -9,4 +9,4 @@ install:
   - pipenv run python -m pip install --upgrade pip setuptools wheel
   
 # command to run tests
-script: pyinstaller --icon=src/vcsreminder_icons/bell_check.ico --onefile --windowed main.py
+script: pyinstaller --icon=src/vcsreminder_icons/bell_check.ico main.py
