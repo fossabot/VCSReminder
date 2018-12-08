@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix">
+        <file alias="add">C:/Users/Beigel/Downloads/plus-solid.png</file>
+        <file alias="trash">C:/Users/Beigel/Downloads/trash-alt-solid.png</file>
+    </qresource>
+</RCC>
