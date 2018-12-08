@@ -1,0 +1,9 @@
+language: python
+python:
+  - "3.6"
+# command to install dependencies
+install:
+  - pip install pipenv
+  - pipenv sync
+  - pipenv install
+  - pipenv run python -m pip install --upgrade pip setuptools wheel
