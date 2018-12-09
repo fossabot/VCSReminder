@@ -8,9 +8,9 @@ name = "pypi"
 "win10toast" = "*"
 gitpython = "*"
 svn = "*"
-infi-systray = "*"
+infi-systray = {version = "*", markers = "python_version == '<3.7'"}
 
 [dev-packages]
 
 [requires]
-python_version = "3.6"
+python_version = "3.7"
