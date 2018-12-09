@@ -1,5 +1,5 @@
 os: windows
-#language: python
+language: python
 #python:
 #  - "3.6"
 # command to install dependencies
